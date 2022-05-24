@@ -1,0 +1,5 @@
+I did this question in IBM Cloud Pak For Data (CP4D) trial version. 
+
+It's a no-code environment which allows users to deploy analytics use cases without needing a coding know-how.
+
+I've mainly used Auto-AI experiment, which is a part of Watson ML suite, to evaluate 11 different models and found that Extra Trees regressor works best for the data. 
